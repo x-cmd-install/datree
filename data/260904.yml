@@ -7,7 +7,7 @@ about:
   head: 0c3b63e
   archived: true
   latestVersion: 1.9.22-rc
-  collectedAt: 2026-09-04T19:21:21Z
+  collectedAt: 2026-09-04T21:15:36Z
 timeline:
   created: 2021-04-14
   lastCommit: 2023-08-01
@@ -85,6 +85,79 @@ total:
   openIssue: 21
   commit: 1130
 ---
+path: /home/runner/.x-repo/github.com/datreeio/datree
+collectedAt: 2026-09-04T21:15:37Z
+loc:
+  Yaml:
+    code: 17194
+    comments: 216
+    blanks: 132
+    files: 361
+  Go:
+    code: 10284
+    comments: 627
+    blanks: 1939
+    files: 90
+  Html:
+    code: 833
+    comments: 0
+    blanks: 775
+    files: 1
+  Json:
+    code: 360
+    comments: 0
+    blanks: 0
+    files: 12
+  Xml:
+    code: 334
+    comments: 0
+    blanks: 2
+    files: 5
+  Sh:
+    code: 190
+    comments: 14
+    blanks: 68
+    files: 9
+  Python:
+    code: 50
+    comments: 1
+    blanks: 13
+    files: 1
+  PowerShell:
+    code: 47
+    comments: 2
+    blanks: 12
+    files: 1
+  Makefile:
+    code: 33
+    comments: 2
+    blanks: 9
+    files: 1
+  Dockerfile:
+    code: 28
+    comments: 0
+    blanks: 11
+    files: 2
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1719
+    blanks: 419
+    files: 25
+  Text:
+    code: 0
+    comments: 37
+    blanks: 9
+    files: 1
+total:
+  code: 29644
+  comments: 2639
+  blanks: 3421
+  files: 511
 ---
 date: "2026-08-24"
 repo:
