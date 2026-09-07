@@ -5,7 +5,7 @@ about:
   head: 0c3b63e
   archived: true
   latestVersion: "1.9.22-rc"
-  collectedAt: 2026-09-07T05:21:31Z
+  collectedAt: 2026-09-07T19:06:23Z
 timeline:
   created: 2021-04-14
   lastCommit: 2023-08-01
@@ -84,7 +84,7 @@ total:
   commit: 1130
 ---
 path: /home/runner/.x-repo/github.com/datreeio/datree
-collectedAt: 2026-09-07T05:21:35Z
+collectedAt: 2026-09-07T19:06:34Z
 loc:
   Yaml:
     code: 17194
@@ -290,7 +290,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:21:36+00:00
+  collectedAt: 2026-09-07T19:06:35+00:00
   platform:
     darwin/arm64:
       name:  datree-cli_1.9.19_Darwin_arm64.zip
