@@ -7,7 +7,7 @@ about:
   latestVersion: "1.9.22-rc"
   latestRelease: "1.9.19"
   latestPrerelease: "1.9.22-rc"
-  collectedAt: 2026-09-10T05:09:05Z
+  collectedAt: 2026-09-10T17:31:40Z
 timeline:
   created: 2021-04-14
   lastCommit: 2023-08-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2023-07-23
   lastPrerelease: 2023-08-01
 popularity:
-  star: 6333
+  star: 6332
   watcher: 2
   fork: 355
   release: 782
@@ -88,7 +88,7 @@ total:
   commit: 1130
 ---
 path: /home/runner/.x-repo/github.com/datreeio/datree
-collectedAt: 2026-09-10T05:09:07Z
+collectedAt: 2026-09-10T17:31:43Z
 loc:
   Yaml:
     code: 17194
