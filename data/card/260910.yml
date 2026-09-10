@@ -7,7 +7,7 @@ about:
   latestVersion: "1.9.22-rc"
   latestRelease: "1.9.19"
   latestPrerelease: "1.9.22-rc"
-  collectedAt: 2026-09-10T21:34:57Z
+  collectedAt: 2026-09-10T22:15:40Z
 timeline:
   created: 2021-04-14
   lastCommit: 2023-08-01
@@ -88,7 +88,7 @@ total:
   commit: 1130
 ---
 path: /home/runner/.x-repo/github.com/datreeio/datree
-collectedAt: 2026-09-10T21:34:58Z
+collectedAt: 2026-09-10T22:15:41Z
 loc:
   Yaml:
     code: 17194
