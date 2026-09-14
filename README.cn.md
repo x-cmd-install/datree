@@ -60,12 +60,12 @@ x install datree
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -80,15 +80,6 @@ x install datree
 | [datree-cli_1.9.19_windows_386.zip](https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_windows_386.zip) | 18.2 MiB | `native/win/x64` |
 | [datree-cli_1.9.19_windows_x86_64.zip](https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_windows_x86_64.zip) | 18.2 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/datree) 上共有 **116** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.9.19` | ✅ latest |
-| Nix unstable | `1.9.19` | ✅ latest |
-
 ## 改进这些数据
 
 datree 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `datree` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -98,4 +89,4 @@ datree 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:13:39Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:27:23Z._
