@@ -1,51 +1,14 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: datree
-  visiblename: datree
-  version: 1.9.3
-  origversion: 1.9.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: datree
-  visiblename: datree
-  version: 1.9.2
-  origversion: 1.9.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: datree
-  visiblename: datree
-  version: 1.9.0
-  origversion: 1.9.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_25_11
+- repo: parabola
+  subrepo: extra
   srcname: datree
+  binname: datree
   visiblename: datree
   version: 1.9.19
-  origversion: null
+  origversion: 1.9.19-2
   status: newest
-  summary: CLI tool to ensure K8s manifests and Helm charts follow best practices
-  maintainers:
-    - azat@bahawi.net
-    - jceb@e-jc.de
+  summary: CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies
   licenses:
-    - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: datree
-  visiblename: datree
-  version: 1.9.4
-  origversion: 1.9.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+    - Apache
 - repo: arch
   subrepo: extra
   srcname: datree
@@ -96,6 +59,15 @@
     - Apache-2.0
   categories:
     - dev-util
+- repo: wakemeops
+  subrepo: devops
+  binname: datree
+  visiblename: datree
+  version: 1.8.54
+  origversion: 1.8.54-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: macports
   srcname: devel/datree
   binname: datree
@@ -115,9 +87,9 @@
   srcname: datree
   binname: datree
   visiblename: datree
-  version: 1.9.19
-  origversion: 1.9.19-2
-  status: newest
+  version: 1.8.8
+  origversion: 1.8.8-1
+  status: outdated
   summary: CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies
   licenses:
     - Apache
@@ -126,9 +98,9 @@
   srcname: datree
   binname: datree
   visiblename: datree
-  version: 1.9.19
-  origversion: 1.9.19-2
-  status: newest
+  version: 1.8.8
+  origversion: 1.8.8-1
+  status: outdated
   summary: CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies
   licenses:
     - Apache
@@ -179,6 +151,18 @@
     - jceb@e-jc.de
   licenses:
     - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: datree
+  visiblename: datree
+  version: 1.9.19
+  origversion: null
+  status: newest
+  summary: CLI tool to ensure K8s manifests and Helm charts follow best practices
+  maintainers:
+    - azat@bahawi.net
+    - jceb@e-jc.de
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: datree
   visiblename: datree
@@ -203,17 +187,6 @@
     - jceb@e-jc.de
   licenses:
     - Apache-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: datree
-  binname: datree
-  visiblename: datree
-  version: 1.9.19
-  origversion: 1.9.19-2
-  status: newest
-  summary: CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies
-  licenses:
-    - Apache
 - repo: scoop
   subrepo: main
   binname: datree
@@ -290,6 +263,42 @@
   subrepo: devops
   binname: datree
   visiblename: datree
+  version: 1.9.4
+  origversion: 1.9.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: datree
+  visiblename: datree
+  version: 1.9.3
+  origversion: 1.9.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: datree
+  visiblename: datree
+  version: 1.9.2
+  origversion: 1.9.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: datree
+  visiblename: datree
+  version: 1.9.0
+  origversion: 1.9.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: datree
+  visiblename: datree
   version: 1.8.67
   origversion: 1.8.67-1~ops2deb
   status: legacy
@@ -319,15 +328,6 @@
   visiblename: datree
   version: 1.8.63
   origversion: 1.8.63-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: datree
-  visiblename: datree
-  version: 1.8.54
-  origversion: 1.8.54-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
