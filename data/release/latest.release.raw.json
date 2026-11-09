@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18627941,
       "digest": null,
-      "download_count": 5628,
+      "download_count": 5630,
       "created_at": "2023-07-23T08:51:19Z",
       "updated_at": "2023-07-23T08:51:20Z",
       "browser_download_url": "https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_Darwin_x86_64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 17649295,
       "digest": null,
-      "download_count": 3969,
+      "download_count": 3971,
       "created_at": "2023-07-23T08:51:20Z",
       "updated_at": "2023-07-23T08:51:21Z",
       "browser_download_url": "https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_Linux_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 18900104,
       "digest": null,
-      "download_count": 184951,
+      "download_count": 185058,
       "created_at": "2023-07-23T08:51:21Z",
       "updated_at": "2023-07-23T08:51:22Z",
       "browser_download_url": "https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_Linux_x86_64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 19127443,
       "digest": null,
-      "download_count": 6282,
+      "download_count": 6285,
       "created_at": "2023-07-23T08:51:21Z",
       "updated_at": "2023-07-23T08:51:22Z",
       "browser_download_url": "https://github.com/datreeio/datree/releases/download/1.9.19/datree-cli_1.9.19_windows_x86_64.zip"
